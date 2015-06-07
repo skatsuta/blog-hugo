@@ -1,8 +1,7 @@
 +++
 date = "2015-04-28T17:32:50+09:00"
-draft = true
+draft = false
 title = "shell script"
-
 +++
 
 # シェルスクリプトの覚え書き

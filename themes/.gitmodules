@@ -88,3 +88,24 @@
 [submodule "heather-hugo"]
 	path = heather-hugo
 	url = https://github.com/hbpasti/heather-hugo.git
+[submodule "bootie-docs"]
+	path = bootie-docs
+	url = https://github.com/key-amb/hugo-theme-bootie-docs
+[submodule "slim"]
+	path = slim
+	url = https://github.com/zhe/hugo-theme-slim.git
+[submodule "angels-ladder"]
+	path = angels-ladder
+	url = https://github.com/tanksuzuki/angels-ladder.git
+[submodule "material-design"]
+	path = material-design
+	url = https://github.com/pdevty/material-design.git
+[submodule "startbootstrap-clean-blog"]
+	path = startbootstrap-clean-blog
+	url = https://github.com/humboldtux/startbootstrap-clean-blog
+[submodule "simple-hugo"]
+	path = simple-hugo
+	url = https://github.com/druzza/simple-hugo
+[submodule "crisp"]
+	path = crisp
+	url = https://github.com/Zenithar/hugo-theme-crisp

@@ -1,0 +1,5 @@
+<script src="{{ .Site.BaseUrl }}/js/jquery-2.1.4.min.js"></script>
+<script src="{{ .Site.BaseUrl }}/js/bootstrap.min.js"></script>
+{{ if .Site.Params.useAnalytics }}
+	{{ partial "analytics.html" . }}
+{{ end }}
